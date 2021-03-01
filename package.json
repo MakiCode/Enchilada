@@ -43,7 +43,7 @@
     "through": "^2.3.8",
     "ts-node": "~3.0.4",
     "typescript": "~2.3.3",
-    "urijs": "^1.18.12",
+    "urijs": "^1.19.6",
     "zone.js": "^0.8.4"
   },
   "devDependencies": {
